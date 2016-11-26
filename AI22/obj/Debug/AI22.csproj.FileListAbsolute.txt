@@ -1,0 +1,5 @@
+c:\users\sonny\documents\visual studio 2015\Projects\AI22\AI22\bin\Debug\AI22.exe.config
+c:\users\sonny\documents\visual studio 2015\Projects\AI22\AI22\bin\Debug\AI22.exe
+c:\users\sonny\documents\visual studio 2015\Projects\AI22\AI22\bin\Debug\AI22.pdb
+c:\users\sonny\documents\visual studio 2015\Projects\AI22\AI22\obj\Debug\AI22.exe
+c:\users\sonny\documents\visual studio 2015\Projects\AI22\AI22\obj\Debug\AI22.pdb
